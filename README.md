@@ -1,8 +1,6 @@
-### Hi there, I'm Tahsinul Amir 👋
+### Hi there, I'm Muhammad Ganang Prasetya 👋
 
 ### And here is my stats
-## 📊 CodeWars Stats:
-<p align="center"><img src="https://www.codewars.com/users/Gaprass7/badges/large"/><br /><br />
 
 ## 📊 GitHub Stats:
 <p align="center"><img src=https://github-readme-stats.vercel.app/api?username=Gaprass7&theme=react&hide_border=false&include_all_commits=false&count_private=false /> <br />
